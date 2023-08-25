@@ -1,0 +1,11 @@
+1.
+Lager begrensninger for hvor man kan få tilgang til variabler.
+Det er nyttig når man har flere samme variabelnavn, så hver variabel kjører kun der de skal.
+
+2.
+En grensesnitt for en klasse er en det samme som en mal/oppskrift for en klasse.
+Grensesnittet for en klasse er en klasse. Hvis flere klasser skal inneholde samme funksjoner/variabler,
+så kan disse funksjonene/variablene være i en "hoved" klasse, der de andre klassene består av denne klassen.
+
+3.
+Instansmetoder er metoder som kun blir brukt i klasser. Disse metodene kan også bruke instansvariabler i klassen.
